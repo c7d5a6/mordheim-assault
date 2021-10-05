@@ -26,3 +26,23 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Schoensperger";
+}
+
+@font-face {
+  font-family: 'Schoensperger';
+  src: url('fonts/Schoensperger.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'GaramondBookC';
+  src: url('fonts/GaramondBookC.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
