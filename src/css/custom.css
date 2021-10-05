@@ -14,6 +14,13 @@
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
+  --ifm-color-primary: #7f181b;
+  --ifm-color-primary-dark: #721618;
+  --ifm-color-primary-darker: #6c1417;
+  --ifm-color-primary-darkest: #591113;
+  --ifm-color-primary-light: #8c1a1e;
+  --ifm-color-primary-lighter: #921c1f;
+  --ifm-color-primary-lightest: #a51f23;
 }
 
 .docusaurus-highlight-code-line {
@@ -27,7 +34,12 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Schoensperger";
 }
 
