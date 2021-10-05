@@ -35,6 +35,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+
       ({
         navbar: {
           title: "Mordheim Assault",
@@ -69,7 +70,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                 {
                   label: "Broheim",
                   href: "http://broheim.net/",
-                }
+                },
               ],
             },
             {
@@ -87,6 +88,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         prism: {
           theme: lightCodeTheme,
           // darkTheme: darkCodeTheme,
+        },
+        colorMode: {
+          // "light" | "dark"
+          defaultMode: "light",
+          disableSwitch: true,
         },
       }),
   }
