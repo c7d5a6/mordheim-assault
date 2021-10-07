@@ -8,17 +8,19 @@ sidebar_position: 4
 
 | 2d6 | Warband                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------- |
-| 2   | **(Dwarf)** [Dwarf Treasure Hunters](#dwarf-treasure-hunters)                                   |
-| 3   | **(Dwarf)** Guild of Disgraced Engineers                                                        |
-| 4   | **(High Elf)** High Elves                                                                       |
-| 5   | **(High Elf)** Lothern Sea Patrol                                                               |
-| 6   | **(Orcs & Goblins)** Black Orcs                                                                 |
+| 2   | **(Dwarf)** Guild of Disgraced Engineers                                                        |
+| 3   | **(High Elf)** High Elves                                                                       |
+| 4   | **(High Elf)** Lothern Sea Patrol                                                               |
+| 5   | **(Orcs & Goblins)** Black Orcs                                                                 |
+| 6   | **(Human)** Merchant Caravans                                                                   |
 | 7   | **(Human)** Sorcerous Society                                                                   |
 | 8   | **(Human)** Merchant                                                                            |
 | 9   | **(Skaven)** Clan Skryre (https://broheim.net/downloads/fo/97RelicsoftheCrusadesPt2.pdf#page=5) |
 | 10  | **(Skaven/Goblin)** Underworld Alliance                                                         |
 | 11  | **(Undead)** Blood Dragons                                                                      |
 | 12  | **(Undead)** [Undead](#undead)                                                                  |
+
+<!-- | 2   | **(Dwarf)** [Dwarf Treasure Hunters](#dwarf-treasure-hunters)                                   | -->
 
 ## Dwarf Treasure Hunters
 
