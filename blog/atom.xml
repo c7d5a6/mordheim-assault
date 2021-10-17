@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mordheim-assault.owlbeardm.com/blog</id>
     <title>Mordheim Assault Blog</title>
-    <updated>2021-10-06T00:00:00.000Z</updated>
+    <updated>2021-11-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mordheim-assault.owlbeardm.com/blog"/>
     <subtitle>Mordheim Assault Blog</subtitle>
@@ -11,11 +11,14 @@
         <title type="html"><![CDATA[SOON]]></title>
         <id>tbd</id>
         <link href="https://mordheim-assault.owlbeardm.com/blog/tbd"/>
-        <updated>2021-10-06T00:00:00.000Z</updated>
+        <updated>2021-11-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[SOON]]></summary>
         <author>
             <name>Mikita</name>
             <uri>https://github.com/c7d5a6</uri>
+        </author>
+        <author>
+            <name>Denis</name>
         </author>
     </entry>
 </feed>

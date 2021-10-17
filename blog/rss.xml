@@ -4,14 +4,14 @@
         <title>Mordheim Assault Blog</title>
         <link>https://mordheim-assault.owlbeardm.com/blog</link>
         <description>Mordheim Assault Blog</description>
-        <lastBuildDate>Wed, 06 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[SOON]]></title>
             <link>https://mordheim-assault.owlbeardm.com/blog/tbd</link>
             <guid>tbd</guid>
-            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[SOON]]></description>
         </item>
     </channel>
