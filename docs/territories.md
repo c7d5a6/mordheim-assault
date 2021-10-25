@@ -1,10 +1,12 @@
 ---
+id: bands
+# slug: ./
+title: Территории
+tags: []
 sidebar_position: 2
 ---
 
 import CharacterImg from '/src/components/character-img/character-img';
-
-# Территории
 
 <CharacterImg src="/img/mordheim map.jpg" align="center"></CharacterImg>
 
@@ -480,3 +482,14 @@ Now after the disaster struck Mordheim Library was engulfed by flames from the c
 
 - Если во время Exploration Procedure выпала location вы можете поменять её на The Pit. Однако, герой пропадает на бросок 1-2.
 - Место богатое варп-камнем. Если в этой территории на этом ходу банда выиграла бой, она получает дополнительно 1d3 варп-камня.
+
+---
+
+###### Metadata
+
+*date*: 19:17 2021-10-25
+*source*: [[]]
+*related*: [[]]
+*tags*: #mordheim/campain
+*current-status*: #in_progress  
+*type*: #rules 

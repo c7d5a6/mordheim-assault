@@ -1,10 +1,12 @@
 ---
+id: bands
+# slug: ./
+title: Дополнительные правила
+tags: []
 sidebar_position: 5
 ---
 
 import CharacterImg from '/src/components/character-img/character-img';
-
-# Дополнительные правила
 
 ## Critical Hit Charts
 
@@ -211,3 +213,14 @@ hits the intended target and counts as having
 ### Dwarf Treasure Hunters
 
 - **Expert Blackpowder Advice**: A Dwarf Engineer is a master of blackpowder guns. Any friendly model in 6" of Dwarf Engineer can reroll blackpowder weapon misfire roll of 1 but you must accept the result of the second roll.
+
+---
+
+###### Metadata
+
+*date*: 19:17 2021-10-25
+*source*: [[]]
+*related*: [[]]
+*tags*: #mordheim/campain
+*current-status*: #in_progress  
+*type*: #rules 
