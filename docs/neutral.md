@@ -2,8 +2,9 @@
 id: bands
 # slug: ./
 title: Нейтральные банды
-tags: []
+tags: [mordheim/campain]
 sidebar_position: 4
+date: 19:17 2021-10-25
 ---
 
 import CharacterImg from '/src/components/character-img/character-img';
@@ -416,14 +417,4 @@ import CharacterImg from '/src/components/character-img/character-img';
 | **Dreg**        | 4     | 2      | 4      | 3     | 3     | 1     | 3     | 1     | 7      |
 | **Dire Wolf**   | 9     | 3      | 0      | 4     | 3     | 1     | 2     | 1     | 4      |
 | **Ghoul**       | 4     | 2      | 2      | 3     | 4     | 1     | 3     | 2     | 5      |
-
----
-
-###### Metadata
-
-*date*: 19:17 2021-10-25
-*source*: [[]]
-*related*: [[]]
-*tags*: #mordheim/campain
-*current-status*: #in_progress  
-*type*: #rules 
+|                 |       |        |        |       |       |       |       |       |        |

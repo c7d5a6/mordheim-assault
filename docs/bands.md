@@ -2,8 +2,9 @@
 id: bands
 # slug: ./
 title: Банды
-tags: []
+tags: [mordheim/campain]
 sidebar_position: 3
+date: 19:17 2021-10-25
 ---
 
 import CharacterImg from '/src/components/character-img/character-img';
@@ -191,14 +192,3 @@ The Skaven of Clan Eshin are supremely adapted to their task. Masters of the art
 - [Skaven Warband Rules](https://broheim.net/downloads/warbands/official/Skaven.pdf)
 
 <CharacterImg src="/img/bands/skaven_symbol_line.png"></CharacterImg>
-
----
-
-###### Metadata
-
-*date*: 19:17 2021-10-25
-*source*: [[]]
-*related*: [[]]
-*tags*: #mordheim/campain
-*current-status*: #done 
-*type*: #rules 

@@ -1,4 +1,11 @@
+---
+date: 20:35 2021-10-25
+tags: mordheim/campain 
+---
+
 # 2021-10-25 — mordheim wining
+*source*: [[]]  
+*related*: [[intro]]  
 
 Как сделать так, чтобы игра длилась год.
 
@@ -34,9 +41,5 @@
 
 ###### Metadata
 
-*date*: 20:35 2021-10-25
-*source*: [[]]
-*related*: [[intro]]
-*tags*: #mordheim/campain 
-*current-status*: #in_progress 
+*current-status*: #done  
 *type*: #note
