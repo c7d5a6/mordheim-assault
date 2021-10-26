@@ -1,5 +1,5 @@
 ---
-id: bands
+id: neutral
 # slug: ./
 title: Нейтральные банды
 tags: [mordheim/campain]

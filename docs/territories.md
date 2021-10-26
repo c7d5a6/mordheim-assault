@@ -1,5 +1,5 @@
 ---
-id: bands
+id: territories
 # slug: ./
 title: Территории
 tags: [mordheim/campain]
@@ -47,7 +47,6 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 Лаз в стене.
 
-
 ## Starting locations
 
 ### Black Pit Settlement
@@ -72,7 +71,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 ### Artisan Quarter
 
-Начальная защита территории: **0  **  
+Начальная защита территории: **0**  
 Максимальная защита территории: **2**
 
 **Фаза Генерации**: Доход 6+
@@ -85,7 +84,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 **Сложная территория.**
 
-Начальная защита территории: **1 **  
+Начальная защита территории: **1**  
 Максимальная защита территории: **3**
 
 **Фаза Генерации**: Доход 4+
@@ -98,7 +97,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 ### Dwarven District
 
-Начальная защита территории: **0 **  
+Начальная защита территории: **0**  
 Максимальная защита территории: **2**
 
 **Фаза Генерации**: Перекрёсток 4+
@@ -114,7 +113,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 **Сложная территория.**
 
-Начальная защита территории: **0 **  
+Начальная защита территории: **0**  
 Максимальная защита территории: **0**
 
 **Фаза Генерации**: Перекрёсток 3+
@@ -128,7 +127,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 ### Memorial Gardens
 
-Начальная защита территории: **0 **  
+Начальная защита территории: **0**  
 Максимальная защита территории: **1**
 
 **Фаза Генерации**: Перекрёсток 3+
@@ -143,7 +142,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 *After the great disaster the barracks are empty of soldiers. The soldiers have perished or left the city as fast as they could. Now many warbands are attempting to get to the Raven Barracks to stock up on supplies for themselves or to sell them at a profit. The City of the Damned is a dark and deadly place. The route to the barracks is dangerous and leaving alive from the barracks might be more difficult than the warbands think.*
 
-Начальная защита территории: **3 **  
+Начальная защита территории: **3**  
 Максимальная защита территории: **3**
 
 **Фаза Генерации**: Защита 3+
@@ -157,7 +156,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 **Сложная территория.**
 
-Начальная защита территории: **0 **  
+Начальная защита территории: **0**  
 Максимальная защита территории: **2**
 
 **Фаза Генерации**: Доход 6+
@@ -173,7 +172,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 *The Statue of Count Gotthard stands virtually unscathed by the Great Comet, an ever watchful shadow over the rumored remains of Count Gotthard. It is said that the eyes follow you and that the statue moves position trying to deceive direction of escape from the open courtyard. Those that linger too long will find their way blocked by a hoard of Undead, the supposed servants of Count Gotthard, mutated by the Great Comet before succumbing to its destruction.*
 
-Начальная защита территории: **0 **  
+Начальная защита территории: **0**  
 Максимальная защита территории: **0**
 
 **Фаза Генерации**: Перекрёсток 3+
@@ -186,7 +185,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 ### Temple of Morr
 
-Начальная защита территории: **1 **  
+Начальная защита территории: **1**  
 Максимальная защита территории: **2**
 
 **Фаза Генерации**: Защита 5+
@@ -199,7 +198,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 **Сложная территория.**
 
-Начальная защита территории: **1 **  
+Начальная защита территории: **1**  
 Максимальная защита территории: **1**
 
 **Фаза Обновление карты**: Если на этом ходу нейтральные банды захватывают территории игрока, то он должен выбрать эту территорию, если остальные условия выполняются. Если у игрока несколько территорий с таким свойством, он может выбрать любую из них.
@@ -216,7 +215,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 **Сложная территория.**
 
-Начальная защита территории: **2 **  
+Начальная защита территории: **2**  
 Максимальная защита территории: **3**
 
 **Фаза Генерации**: Защита 5+
@@ -233,7 +232,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 *The main path from Cut Throat's Den to the City of the Damned is by the West Gatehouse. Normally, most would think nothing of going to Mordheim via the West Gatehouse but danger lurks at every corner of Mordheim and this area is not different. The West Gatehouse remains guarded by a dark and sinister tree beast, and to enter the city from this direction adventurer must first brave passing by this monstrosity. Skeletons hang from its branches and who knows how many skulls are entwined within its blackened roots. Warbands tend to scale the walls or have found tunnels into the city from the West side in order to avoid the giant oak that lurks at the West Gatehouse.*
 
-Начальная защита территории: **0 **  
+Начальная защита территории: **0**  
 Максимальная защита территории: **3**
 
 **Фаза Обновления банд**:
@@ -394,7 +393,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 **Фаза Обновление карты**: Если на этом ходу нейтральные банды захватывают территории игрока, то он должен выбрать эту территорию, если остальные условия выполняются. Если у игрока несколько территорий с таким свойством, он может выбрать любую из них.
 
-**Фаза Обновления банд**: 
+**Фаза Обновления банд**:
 
 - Во время Exploration Procedure кидайте дополнительный d6.
 
@@ -407,7 +406,7 @@ There are many a vile warband that resides at Cut Throat's Den. Cut Throat's Den
 
 **Фаза Генерации**: Перекрёсток 4+
 
-**Фаза Обновления банд**: 
+**Фаза Обновления банд**:
 
 - Кидайте 3d6 для доступного для наёма Henchmen опыта.
 

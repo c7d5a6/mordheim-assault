@@ -1,5 +1,5 @@
 ---
-id: bands
+id: intro
 # slug: ./
 title: Правила Кампании
 tags: [mordheim/campain]

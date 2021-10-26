@@ -1,5 +1,5 @@
 ---
-id: bands
+id: rules
 # slug: ./
 title: Дополнительные правила
 tags: [mordheim/campain]
@@ -177,7 +177,6 @@ hits the intended target and counts as having
 +1 Strength.
 
 ## Home Rules
-
 
 - When choosing spells for the first time, "Wizards" may roll two dice and pick one of the two spells.
 
