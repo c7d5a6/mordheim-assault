@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[121],{8070:function(a){a.exports=JSON.parse('[{"name":"mordheim/campain","permalink":"/docs/tags/mordheim-campain","count":5}]')}}]);

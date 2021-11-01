@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"SOON","permalink":"/blog/tbd"}]}')}}]);

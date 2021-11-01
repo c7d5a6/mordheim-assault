@@ -4,14 +4,35 @@
         <title>Mordheim Assault Blog</title>
         <link>https://mordheim-assault.owlbeardm.com/blog</link>
         <description>Mordheim Assault Blog</description>
-        <lastBuildDate>Wed, 17 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dark Elves Band]]></title>
+            <link>https://mordheim-assault.owlbeardm.com/blog/starting-darkelves</link>
+            <guid>starting-darkelves</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[- High Born: Free Dagger, Sword, Repeater Crossbow, Sea Dragon Cloak]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dwarf Treasure Hunters Band]]></title>
+            <link>https://mordheim-assault.owlbeardm.com/blog/starting-dwarf</link>
+            <guid>starting-dwarf</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Dwarf Noble: Double-handed weapon, Gromril armour]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Da 'Ulkin Smasherz]]></title>
+            <link>https://mordheim-assault.owlbeardm.com/blog/starting-orc</link>
+            <guid>starting-orc</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Balzog (Orc Boss): Axe, Bow]]></description>
+        </item>
         <item>
             <title><![CDATA[SOON]]></title>
             <link>https://mordheim-assault.owlbeardm.com/blog/tbd</link>
             <guid>tbd</guid>
-            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[SOON]]></description>
         </item>
     </channel>
