@@ -2,7 +2,7 @@
 id: rules
 # slug: ./
 title: Дополнительные правила
-tags: [mordheim/campain]
+tags: [mordheim, page]
 sidebar_position: 5
 date: 19:17 2021-10-25
 ---

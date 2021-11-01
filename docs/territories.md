@@ -2,7 +2,7 @@
 id: territories
 # slug: ./
 title: Территории
-tags: [mordheim/campain]
+tags: [mordheim, page]
 sidebar_position: 2
 date: 19:17 2021-10-25
 ---

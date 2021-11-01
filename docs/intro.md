@@ -2,7 +2,7 @@
 id: intro
 # slug: ./
 title: Правила Кампании
-tags: [mordheim/campain]
+tags: [mordheim, page]
 sidebar_position: 1
 date: 19:17 2021-10-25
 ---

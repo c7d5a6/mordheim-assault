@@ -2,7 +2,7 @@
 id: neutral
 # slug: ./
 title: Нейтральные банды
-tags: [mordheim/campain]
+tags: [mordheim, page]
 sidebar_position: 4
 date: 19:17 2021-10-25
 ---

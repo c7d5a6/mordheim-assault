@@ -2,7 +2,7 @@
 id: bands
 # slug: ./
 title: Банды
-tags: [mordheim/campain]
+tags: [mordheim, page]
 sidebar_position: 3
 date: 19:17 2021-10-25
 ---
