@@ -179,6 +179,17 @@ hits the intended target and counts as having
 ## Home Rules
 
 - When choosing spells for the first time, "Wizards" may roll two dice and pick one of the two spells.
+- **Underdogs:** When a warband fights against an enemy warband with a higher rating, its warriors earn extra
+Experience points as shown on the table below. Also, warband with lower rating get's reroll as shown on the table below:
+
+| Rating difference | Experience Bonus | Reroll count |
+| ---------------- | :--------------: | :----------: |
+| 0–50              | None             | 1            |
+| 51–75             | +1               | 2            |
+| 76–75             | +2               | 3            |
+| 101–75            | +3               | 4            |
+| 151–75            | +4               | 5            |
+| 301+              | +5               | 6            |
 
 <hr/>
 

@@ -159,9 +159,11 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 ## Sorcerous Society
 
-### 500 gc
+### xxx gc
 
--
+- Magus (Leader, Wizard): Raven [75+20]
+- Mage (Wizard, Respect your betters): [35]
+- Mage (Wizard, Respect your betters): [35]
 -
 -
 
@@ -187,23 +189,35 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 ### 500 gc
 
--
--
--
+- Mercenary Captain (Leadership 12"): Sword, Dueiling Pistol, Heavy Armour [60+25+5+40]
+- Champion: Great Weapon, Light Armour, Helmet [15+15+10]
+- Champion: Great Weapon, Light Armour, Helmet [15+15+10]
+- Marksman[x5]: Crossbow [25+25]
+- Swordsmen[x1]: Sword [35+10]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name                  | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| --------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Mercenary Captain** | 4     | 4      | 4      | 3     | 3     | 1     | 4     | 1     | 8      |
+| **Champion**          | 4     | 4      | 3      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Champion**          | 4     | 4      | 3      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Marksman**          | 4     | 3      | 4      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Swordsmen**         | 4     | 4      | 3      | 3     | 3     | 1     | 3     | 1     | 7      |
 
-### 750 gc
+### 770 gc
 
--
--
--
+- Mercenary Captain (Leadership 12"): Sword, Dueiling Pistol, Buckler, Heavy Armour, Helmet, +1 T [60+10+25+5+40+10+30]
+- Champion: Great Weapon, Light Armour, Helmet, +1 T [15+15+10+30]
+- Champion: Great Weapon, Light Armour, Helmet, +1 T [15+15+10+30]
+- Marksman[x7]: Crossbow [25+25]
+- Swordsmen[x2]: Sword, Buckler [35+10+5]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name                  | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| --------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Mercenary Captain** | 4     | 4      | 4      | 3     | 4     | 1     | 4     | 1     | 8      |
+| **Champion**          | 4     | 4      | 3      | 3     | 4     | 1     | 3     | 1     | 7      |
+| **Champion**          | 4     | 4      | 3      | 3     | 4     | 1     | 3     | 1     | 7      |
+| **Marksman**          | 4     | 3      | 4      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Swordsmen**         | 4     | 4      | 3      | 3     | 3     | 1     | 3     | 1     | 7      |
 
 <hr/>
 
@@ -269,10 +283,8 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 - Vampire (Leader, Fear, Immune to Psychology, Immune to Poisons, No Pain): Warhorse, Light Armour, Helmet, Two-handed Weapon, Killing Blow [110+80+15+10+15+30]
 - Dreg: bow [20+10]
-- Grave Guard (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
-- Grave Guard (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
-- Skeleton Warriors (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
-- Skeleton Warriors (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
+- Grave Guard[x2] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
+- Skeleton Warriors[x2] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
 
 **Killing Blow**: The vampire is an expert fighter and every time he rolls a natural 6 on the to hit roll, he automatically wounds his opponent. No parries are allowed, although the opponent may make an armour or saving throw.
 
@@ -288,13 +300,8 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 - Vampire (Leader, Fear, Immune to Psychology, Immune to Poisons, No Pain): Warhorse, Heavy Armour, Helmet, Two-handed Weapon, Killing Blow, Master Strike, +1 WS, +1 W [110+80+40+10+15+30+15+50+20]
 - Dreg: Bow, +2 BS [20+10+15+15]
-- Grave Guard (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
-- Grave Guard (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
-- Grave Guard (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
-- Skeleton Warriors (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
-- Skeleton Warriors (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
-- Skeleton Warriors (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
-- Skeleton Warriors (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
+- Grave Guard[x3] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
+- Skeleton Warriors[x4] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
 
 **Killing Blow**: The vampire is an expert fighter and every time he rolls a natural 6 on the to hit roll, he automatically wounds his opponent. No parries are allowed, although the opponent may make an armour or saving throw.
 
@@ -322,12 +329,8 @@ import CharacterImg from '/src/components/character-img/character-img';
 - Dreg: Hammer [20+3]
 - Dreg: Hammer [20+3]
 - Dreg: Mace [20+3]
-- Dire Wolf (Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain) [50]
-- Dire Wolf (Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain) [50]
-- Ghoul (Cause Fear) [40]
-- Ghoul (Cause Fear) [40]
-- Ghoul (Cause Fear) [40]
-- Ghoul (Cause Fear) [40]
+- Dire Wolf[x2] (Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain) [50]
+- Ghoul[x4] (Cause Fear) [40]
 
 **Charge**: Dire Wolves are slavering creatures that overpower their opponents when they charge. Dire Wolves fight with 2 attacks  instead of 1 during the turn they charge.
 
@@ -348,13 +351,8 @@ import CharacterImg from '/src/components/character-img/character-img';
 - Dreg: Hammer, bow, +2 BS [20+3+10+30]
 - Dreg: Hammer, bow, +2 BS [20+3+10+30]
 - Dreg: Mace, bow, +2 BS [20+3+10+30]
-- Dire Wolf (Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain) [50]
-- Dire Wolf (Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain) [50]
-- Ghoul (Cause Fear) [40]
-- Ghoul (Cause Fear) [40]
-- Ghoul (Cause Fear) [40]
-- Ghoul (Cause Fear) [40]
-- Ghoul (Cause Fear) [40]
+- Dire Wolf[x2] (Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain) [50]
+- Ghoul[x5] (Cause Fear) [40]
 
 **Charge**: Dire Wolves are slavering creatures that overpower their opponents when they charge. Dire Wolves fight with 2 attacks  instead of 1 during the turn they charge.
 
@@ -367,4 +365,3 @@ import CharacterImg from '/src/components/character-img/character-img';
 | **Dreg**        | 4     | 2      | 4      | 3     | 3     | 1     | 3     | 1     | 7      |
 | **Dire Wolf**   | 9     | 3      | 0      | 4     | 3     | 1     | 2     | 1     | 4      |
 | **Ghoul**       | 4     | 2      | 2      | 3     | 4     | 1     | 3     | 2     | 5      |
-|                 |       |        |        |       |       |       |       |       |        |
