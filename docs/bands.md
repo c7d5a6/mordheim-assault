@@ -190,3 +190,40 @@ The Skaven of Clan Eshin are supremely adapted to their task. Masters of the art
 - [Skaven Warband Rules](https://broheim.net/downloads/warbands/official/Skaven.pdf)
 
 <CharacterImg src="/img/bands/skaven_symbol_line.png"></CharacterImg>
+
+
+**Step Aside.** The warrior has a natural ability to avoid
+injury in combat. Each time he suffers a wound in
+close combat he may make an additional saving throw
+of 5+. This save is never modified and is taken after
+all other armour saves.
+
+**Mighty Blow.** The warrior knows how to use his
+strength to maximum effect and has a +1 Strength
+bonus in close combat (excluding pistols). As his
+Strength is used for close combat weapons, the bonus
+applies to all such weapons.
+
+**Resilient.** The warrior is covered in battle scars.
+Deduct -1 Strength from all hits against him in close
+combat. This does not affect armour save modifiers.
+
+**Lightning Reflexes.** If the warrior is charged he will
+‘strike first’ against those that charged that turn. As
+the charger(s) will also normally ‘strike first’ (for
+charging), the order of attack between the charger(s)
+and the warrior with this skill will be determined by
+comparing Initiative values.
+
+**Dodge.** A warrior with this skill is nimble and as fast
+as quicksilver. He can avoid any hits from a missile
+weapon on a D6 roll of 5+. Note that this roll is taken
+against missiles as soon as a hit is scored to see
+whether the warrior dodges it or not, before rolling to
+wound, and before any effects from other skills or
+equipment (such as lucky charms).
+
+**Daemon Soul.** A Daemon lives within the mutant’s soul. This gives
+him a 4+ save against the effects of spells or prayers.
+
+**Hideous.** The mutant causes fear.
