@@ -11,6 +11,8 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 <CharacterImg src="/img/mordheim map.jpg" align="center"></CharacterImg>
 
+Все свойства территорий срабатывают перед началом указанной фазы.
+
 ## Общие свойства территорий
 
 <CharacterImg src="/img/icons/protect.png" align="left"></CharacterImg>
@@ -51,7 +53,7 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 ### Black Pit Settlement
 
-TBD
+Любая банда может ночевать в Black Pit Settlement.
 
 ### Brigandsburg
 
