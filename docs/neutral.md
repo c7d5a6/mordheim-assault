@@ -29,25 +29,54 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 ## Guild of Disgraced Engineers
 
-### 500 gc
+**Hard to Kill**: Dwarfs are tough, resilient individuals who
+can only be taken out of action on a roll of 6 instead of 5-6
+when rolling on the Injury chart. Treat a roll of 1-2 as
+knocked down, 3-5 as stunned, and 6 as out of action
 
--
--
--
+**Hard Head**: Dwarfs ignore the special rules for clubs,
+maces, etc. They too are not easy to knock out!
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+**Armour**: Dwarfs never suffer movement penalties for
+wearing armour.
 
-### 750 gc
+**Field Test**: the Engineer and Apprentices can use any
+weapon or armour created through the Inventions table.
+Lads that get talent will also be forced to partake in this risky
+endeavour. The Sapper being a bit more wary will only wear
+armour based inventions.
 
--
--
--
+### 497 gc
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+- Expelled Engineer (Leader, Inventor): Repeater Handgun, Sword, Light armor [85+50+10+15]
+- Apprentice Engineer (Assistant): Crossbow [40+25]
+- Sapper (Make Explosives, Tunnel Rat): Cinderblast Bomb, Sword [60+27+10]
+- Thunderers[x1] (Properly Used):  Crossbow [50+50]
+- Gyrocopter (Fly, Transport, Full Steam Ahead, Engine Malfunction, Space 1, Full Steam Ahead!): [100]
+
+| name                    | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ----------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Expelled Engineer**   | 3     | 4      | 5      | 3     | 4     | 1     | 2     | 1     | 9      |
+| **Apprentice Engineer** | 3     | 3      | 3      | 3     | 4     | 1     | 2     | 1     | 7      |
+| **Sapper**              | 3     | 4      | 3      | 3     | 4     | 1     | 2     | 1     | 8      |
+| **Thunderers**          | 3     | 3      | 4      | 3     | 4     | 1     | 2     | 1     | 8      |
+| **Gyrocopter**          | 2d6   | -      | -      | -     | 5     | 3     | -     | -     | -      |
+
+### 762 gc
+
+- Expelled Engineer (Leader, Inventor): Repeater Handgun, Sword, Heavy armor, + 1W [85+50+10+40+30]
+- Apprentice Engineer (Assistant): Crossbow, +1 BS [40+25+15]
+- Sapper (Make Explosives, Tunnel Rat): Cinderblast Bomb, Sword, Heavy armor, +1 WS, +1 BS [60+27+10+40+30]
+- Thunderers[x2] (Properly Used):  Crossbow [2*(50+25)]
+- Gyrocopter (Fly, Transport, Full Steam Ahead, Engine Malfunction, Space 2, Bomber, Full Steam Ahead!): 2 bombs [100+50]
+
+| name                    | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ----------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Expelled Engineer**   | 3     | 4      | 5      | 3     | 4     | 2     | 2     | 1     | 9      |
+| **Apprentice Engineer** | 3     | 3      | 4      | 3     | 4     | 1     | 2     | 1     | 7      |
+| **Sapper**              | 3     | 5      | 4      | 3     | 4     | 1     | 2     | 1     | 8      |
+| **Thunderers**          | 3     | 3      | 4      | 3     | 4     | 1     | 2     | 1     | 8      |
+| **Gyrocopter**          | 2d6   | -      | -      | -     | 5     | 3     | -     | -     | -      |
 
 <hr/>
 
