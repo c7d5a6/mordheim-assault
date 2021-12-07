@@ -213,7 +213,7 @@ Experience points as shown on the table below. Also, warband with lower rating g
 
 - Light Armour (5+ save) 15 gc, rare 8
 - Heavy Armour (4+ save) 40 gc, rare 9
-- Ithilmar Armour (4+ save) 70 gc, rare 11
+- Ithilmar Armour (4+ save) 70 gc, rare 11 [60 gc for high elves when band created]
 - Gromril Armour (3+ save) 150 gc, rare 11 [75 gc for dwarf when band created]
 - Shield +1 to armor save (adds -1 to M if used with any armor except Ithilmar Armour)
 
