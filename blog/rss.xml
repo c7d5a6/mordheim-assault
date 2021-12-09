@@ -4,9 +4,16 @@
         <title>Mordheim Assault Blog</title>
         <link>https://mordheim-assault.owlbeardm.com/blog</link>
         <description>Mordheim Assault Blog</description>
-        <lastBuildDate>Mon, 01 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shadow Warriors Band]]></title>
+            <link>https://mordheim-assault.owlbeardm.com/blog/starting-highelves</link>
+            <guid>starting-highelves</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Shadow Master: Free Dagger, Elf Bow]]></description>
+        </item>
         <item>
             <title><![CDATA[Dark Elves Band]]></title>
             <link>https://mordheim-assault.owlbeardm.com/blog/starting-darkelves</link>

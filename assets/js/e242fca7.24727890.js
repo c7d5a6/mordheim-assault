@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[615],{7634:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/highelves","name":"highelves","count":1,"permalink":"/blog/tags/highelves"}')}}]);
