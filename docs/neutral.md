@@ -174,25 +174,49 @@ armour based inventions.
 
 ## Merchant Caravans
 
-### 500 gc
+### 600 gc
 
--
--
--
+- Merchant (Merchant): Pistol [50+15]
+- Apprentice: Pistol [15+15]
+- Knights Vanguard (Lightning Reflex, Ride Warhorse, Hireling): Warhorse, Heavy armour, Helmet, Double-handed weapon [45+40+40+15+10]
+- Knights Vanguard (Lightning Reflex, Ride Warhorse, Hireling): Heavy armour, Helmet, Duelling pistol, Sword [45+40+30+10+10]
+- Magician (Wizard, Hireling): [40]
+- Trade Wagon (Wagon, Storage, Reputation, Abandoned): [180]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name                        | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| --------------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Merchant**                | 4     | 2      | 3      | 3     | 3     | 1     | 3     | 1     | 8      |
+| **Apprentice**              | 4     | 2      | 2      | 3     | 3     | 1     | 3     | 1     | 6      |
+| **Knights Vanguard**        | 4     | 4      | 3      | 3     | 3     | 1     | 4     | 1     | 7      |
+| Warhorse                    | 8     | 3      | 0      | 3     | 3     | 1     | 3     | 1     | 5      |
+| **Knights Vanguard**        | 4     | 4      | 3      | 3     | 3     | 1     | 4     | 1     | 7      |
+| **Magician**                | 4     | 2      | 2      | 3     | 3     | 1     | 4     | 1     | 8      |
+| Trade Wagon **Cart**        | -     | -      | -      | -     | 8     | 4     | -     | -     | -      |
+| Trade Wagon **Wheel**       | -     | -      | -      | -     | 6     | 1     | -     | -     | -      |
+| Trade Wagon **Draft Horse** | 8     | 1      | 0      | 3     | 3     | 1     | 3     | 0     | 5      |
 
-### 750 gc
+### 850 gc
 
--
--
--
+- Merchant (Merchant): Pistol [50+15]
+- Apprentice: Pistol [15+15]
+- Knights Vanguard (Lightning Reflex, Ride Warhorse, Hireling): Warhorse (+ Barding), Heavy armour, Helmet, Double-handed weapon, + 1 WS [45+40+40+15+10+80+15]
+- Knights Vanguard (Lightning Reflex, Ride Warhorse, Hireling): Heavy armour, Helmet, Duelling pistol, Sword [45+40+30+10+10]
+- Magician (Wizard, Hireling): [40]
+- Marksmen[x3]: Crossbow [30+25]
+- Trade Wagon (Wagon, Storage, Reputation, Abandoned): [180]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name                        | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| --------------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Merchant**                | 4     | 2      | 3      | 3     | 3     | 1     | 3     | 1     | 8      |
+| **Apprentice**              | 4     | 2      | 2      | 3     | 3     | 1     | 3     | 1     | 6      |
+| **Knights Vanguard**        | 4     | 5      | 3      | 3     | 3     | 1     | 4     | 1     | 7      |
+| Warhorse                    | 8*    | 3      | 0      | 3     | 3     | 1     | 3     | 1     | 5      |
+| **Knights Vanguard**        | 4     | 4      | 3      | 3     | 3     | 1     | 4     | 1     | 7      |
+| **Magician**                | 4     | 2      | 2      | 3     | 3     | 1     | 4     | 1     | 8      |
+| **Marksmen**                | 4     | 3      | 4      | 3     | 3     | 1     | 3     | 1     | 7      |
+| Trade Wagon **Cart**        | -     | -      | -      | -     | 8     | 4     | -     | -     | -      |
+| Trade Wagon **Wheel**       | -     | -      | -      | -     | 6     | 1     | -     | -     | -      |
+| Trade Wagon **Draft Horse** | 8     | 1      | 0      | 3     | 3     | 1     | 3     | 0     | 5      |
 
 <hr/>
 
@@ -322,7 +346,7 @@ armour based inventions.
 
 ### 490 gc
 
-- Vampire (Leader, Fear, Immune to Psychology, Immune to Poisons, No Pain): Warhorse, Light Armour, Helmet, Two-handed Weapon, Killing Blow [110+80+15+10+15+30]
+- Vampire (Leader, Fear, Immune to Psychology, Immune to Poisons, No Pain): Nightmare (May Not Run, Immune to Poison, Immune to Psychology), Light Armour, Helmet, Two-handed Weapon, Killing Blow [110+80+15+10+15+30]
 - Dreg: bow [20+10]
 - Grave Guard[x2] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
 - Skeleton Warriors[x2] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
@@ -332,14 +356,14 @@ armour based inventions.
 | name                  | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
 | --------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
 | **Vampire**           | 6     | 4      | 4      | 4     | 4     | 2     | 5     | 2     | 9      |
+| Nightmare             | 8     | 2      | 0      | 3     | 3     | 1     | 2     | 1     | 5      |
 | **Dreg**              | 4     | 2      | 2      | 3     | 3     | 1     | 3     | 1     | 7      |
 | **Grave Guard**       | 4     | 3      | 2      | 4     | 4     | 1     | 2     | 1     | 6      |
 | **Skeleton Warriors** | 4     | 2      | 2      | 3     | 3     | 1     | 2     | 1     | 5      |
 
-
 ### 755 gc
 
-- Vampire (Leader, Fear, Immune to Psychology, Immune to Poisons, No Pain): Warhorse, Heavy Armour, Helmet, Two-handed Weapon, Killing Blow, Master Strike, +1 WS, +1 W [110+80+40+10+15+30+15+50+20]
+- Vampire (Leader, Fear, Immune to Psychology, Immune to Poisons, No Pain): Nightmare (May Not Run, Immune to Poison, Immune to Psychology), Heavy Armour, Helmet, Two-handed Weapon, Killing Blow, Master Strike, +1 WS, +1 W [110+80+40+10+15+30+15+50+20]
 - Dreg: Bow, +2 BS [20+10+15+15]
 - Grave Guard[x3] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, Killing Blow): Sword, Shield [50+10+5]
 - Skeleton Warriors[x4] (Fear, Immune to Psychology, Immune to Poisons, No Pain, Slow, No Brain): Sword, Shield [20+10+5]
@@ -351,6 +375,7 @@ armour based inventions.
 | name                  | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
 | --------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
 | **Vampire**           | 6     | 5      | 4      | 4     | 4     | 3     | 5     | 2     | 9      |
+| Nightmare             | 8     | 2      | 0      | 3     | 3     | 1     | 2     | 1     | 5      |
 | **Dreg**              | 4     | 2      | 4      | 3     | 3     | 1     | 3     | 1     | 7      |
 | **Grave Guard**       | 4     | 3      | 2      | 4     | 4     | 1     | 2     | 1     | 6      |
 | **Skeleton Warriors** | 4     | 2      | 2      | 3     | 3     | 1     | 2     | 1     | 5      |
