@@ -306,25 +306,41 @@ armour based inventions.
 
 ## Clan Skryre
 
-### 500 gc
+### 498 gc
 
--
--
--
+- Warlock engineer (Leader, Wizard): Halberd, Warp blades, Gas mas, Poison wind globe [70+10+40+5+15]
+- Skaven Overseer (Slave Driver, Slave Master): Scourge, Heavy armour, Shield, Helm [45+15+40+5+10]
+- Apprentice warlock: Halberd, 2 Globe, Gas Mask [18+10+30+5]
+- Apprentice warlock: Halberd, 2 Globe, Gas Mask [18+10+30+5]
+- Apprentice warlock: Halberd, 2 Globe, Gas Mask [18+10+30+5]
+- Skaven Slaves[9x] (Life is cheap, Easy come, easy go, Numerous, Experience, Worthless)
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name                   | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ---------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Warlock engineer**   | 5     | 4      | 4      | 3     | 3     | 1     | 5     | 1     | 7      |
+| **Skaven Overseer**    | 6     | 4      | 3      | 4     | 3     | 1     | 5     | 1     | 6      |
+| **Apprentice warlock** | 5     | 2      | 3      | 3     | 3     | 1     | 4     | 1     | 4      |
+| **Apprentice warlock** | 5     | 2      | 3      | 3     | 3     | 1     | 4     | 1     | 4      |
+| **Apprentice warlock** | 5     | 2      | 3      | 3     | 3     | 1     | 4     | 1     | 4      |
+| **Skaven Slaves**      | 5     | 2      | 2      | 3     | 3     | 1     | 4     | 1     | 2      |
 
-### 750 gc
+### 774 gc
 
--
--
--
+- Warlock engineer (Leader, Wizard): Halberd, Warp blades, Insulation robe, Heavy Armor, Helm, +Skill (Magic roll +1), +1 BS, +1 W, +1 T [70+10+40+30+40+10+40+15+20+30]
+- Skaven Overseer (Slave Driver, Slave Master): Scourge, Heavy armour, Shield, Helm, +1 W, +1 T, +1 A [45+15+40+5+10+30+20+25]
+- Apprentice warlock: Halberd, 2 Globe, Gas Mask [18+10+30+5]
+- Apprentice warlock: Halberd, 2 Globe, Gas Mask [18+10+30+5]
+- Apprentice warlock: Halberd, 2 Globe, Gas Mask [18+10+30+5]
+- Skaven Slaves[15x] (Life is cheap, Easy come, easy go, Numerous, Experience, Worthless)
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name                   | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ---------------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Warlock engineer**   | 5     | 4      | 5      | 3     | 4     | 2     | 5     | 1     | 7      |
+| **Skaven Overseer**    | 6     | 4      | 3      | 4     | 4     | 2     | 5     | 2     | 6      |
+| **Apprentice warlock** | 5     | 2      | 3      | 3     | 3     | 1     | 4     | 1     | 4      |
+| **Apprentice warlock** | 5     | 2      | 3      | 3     | 3     | 1     | 4     | 1     | 4      |
+| **Apprentice warlock** | 5     | 2      | 3      | 3     | 3     | 1     | 4     | 1     | 4      |
+| **Skaven Slaves**      | 5     | 2      | 2      | 3     | 3     | 1     | 4     | 1     | 2      |
 
 <hr/>
 
