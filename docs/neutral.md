@@ -164,7 +164,7 @@ armour based inventions.
 | **Black Orc Boss** | 4     | 4      | 4      | 4     | 5     | 2     | 3     | 1     | 8      |
 | **Black Orc**      | 4     | 4      | 3      | 4     | 4     | 1     | 3     | 1     | 7      |
 | **Black Orc**      | 4     | 4      | 3      | 4     | 4     | 1     | 3     | 1     | 7      |
-| **Orc Nuttaz**     | 4     | 3      | 2      | 3     | 4     | 1     | 2     | 1     | 5*     |
+| **Orc Nuttaz**     | 4     | 3      | 2      | 3     | 4     | 1     | 2     | 1*    | 5*     |
 | **Orc Boyz**       | 4     | 3      | 3      | 3     | 4     | 1     | 2     | 1     | 6      |
 | **Orc Shootaz**    | 4     | 3      | 3      | 3     | 4     | 1     | 2     | 1     | 6      |
 
