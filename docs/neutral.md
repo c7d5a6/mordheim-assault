@@ -224,27 +224,43 @@ armour based inventions.
 
 ## Sorcerous Society
 
-### xxx gc
+### 515 gc
 
-- Magus (Leader, Wizard): Raven [75+20]
-- Mage (Wizard, Respect your betters): [35]
-- Mage (Wizard, Respect your betters): [35]
--
--
+- Magus (Leader, Wizard, Random Element): Wizard’s Staff, Raven [75+20+10]
+- Mage (Wizard, Respect your betters, Random Element): Wizard’s Staff [35+10]
+- Mage (Wizard, Respect your betters, Random Element): Wizard’s Staff [35+10]
+- Companion (Don’t look at me!, Body Guard): Heavy Armour, Helmet, Buckler, Sword, Bow [45+40+10+5+10+10]
+- Companion (Don’t look at me!, Body Guard): Heavy Armour, Helmet, Buckler, Sword, Bow [45+40+10+5+10+10]
+- Grunts[2x]: Shield, Sword [25+5+10]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name          | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Magus**     | 4     | 3      | 3      | 3     | 3     | 1     | 4     | 1     | 8      |
+| Raven         | 2     | 2      | -      | 2     | 2     | 1     | 4     | 1     | 5      |
+| **Mage**      | 4     | 2      | 2      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Mage**      | 4     | 2      | 2      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Companion** | 4     | 4      | 4      | 3     | 3     | 1     | 3     | 1     | 8      |
+| **Companion** | 4     | 4      | 4      | 3     | 3     | 1     | 3     | 1     | 8      |
+| **Grunts**    | 4     | 3      | 3      | 3     | 3     | 1     | 3     | 1     | 7      |
 
-### 750 gc
+### 775 gc
 
--
--
--
+- Magus (Leader, Wizard, Random Element): Wizard’s Staff, Bow, Raven, +Skill (Magical Aptitude), +Skill (+1 Magic roll), +1 T [75+20+10+10+40+40+30]
+- Mage (Wizard, Respect your betters, Random Element): Wizard’s Staff, Bow, +Spell [35+10+10]
+- Mage (Wizard, Respect your betters, Random Element): Wizard’s Staff, Bow, +Spell [35+10+10]
+- Companion (Don’t look at me!, Body Guard): Heavy Armour, Helmet, Buckler, Sword, Bow [45+40+10+5+10+10]
+- Companion (Don’t look at me!, Body Guard): Heavy Armour, Helmet, Buckler, Sword, Bow [45+40+10+5+10+10]
+- Grunts[5x]: Shield, Sword [25+5+10]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name          | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ------------- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Magus**     | 4     | 3      | 3      | 3     | 4     | 1     | 4     | 1     | 8      |
+| Raven         | 2     | 2      | -      | 2     | 2     | 1     | 4     | 1     | 5      |
+| **Mage**      | 4     | 2      | 2      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Mage**      | 4     | 2      | 2      | 3     | 3     | 1     | 3     | 1     | 7      |
+| **Companion** | 4     | 4      | 4      | 3     | 3     | 1     | 3     | 1     | 8      |
+| **Companion** | 4     | 4      | 4      | 3     | 3     | 1     | 3     | 1     | 8      |
+| **Grunts**    | 4     | 3      | 3      | 3     | 3     | 1     | 3     | 1     | 7      |
 
 <hr/>
 
