@@ -136,25 +136,37 @@ armour based inventions.
 
 ## Black Orcs
 
-### 500 gc
+### 505 gc
 
--
--
--
+- Black Orc Boss (Leader, Black Orc, Oi Behave!): Heavy armor, Two-handed weapon [90+40+15]
+- Black Orc (Black Orc): Light armor, Two-handed weapon [60+15]
+- Black Orc (Black Orc): Light armor, Two-handed weapon [60+15]
+- Orc Nuttaz[x3] (Unstable, Crazy, Savage): Choppa, Choppa [40+10+10]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name               | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ------------------ | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Black Orc Boss** | 4     | 4      | 4      | 4     | 4     | 1     | 3     | 1     | 8      |
+| **Black Orc**      | 4     | 4      | 3      | 4     | 4     | 1     | 3     | 1     | 7      |
+| **Black Orc**      | 4     | 4      | 3      | 4     | 4     | 1     | 3     | 1     | 7      |
+| **Orc Nuttaz**     | 4     | 3      | 2      | 3     | 4     | 1     | 2     | 1     | 5*     |
 
-### 750 gc
+### 760 gc
 
--
--
--
+- Black Orc Boss (Leader, Black Orc, Oi Behave!): Heavy armor, Helmet, Two-handed weapon, +1 T, +1 W [90+40+15+10+30+20]
+- Black Orc (Black Orc): Heavy armor, Two-handed weapon [60+15]
+- Black Orc (Black Orc): Heavy armor, Two-handed weapon [60+15]
+- Orc Nuttaz[x4] (Unstable, Crazy, Savage): Choppa, Choppa [40+10+10]
+- Orc Boyz[x1] (Animosity): Bow [25+10]
+- Orc Shootaz[x1] (Animosity, Uncommon): Crossbow [25+25]
 
-| name | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
-| ---- | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
-| **** |       |        |        |       |       |       |       |       |        |
+| name               | **M** | **WS** | **BS** | **S** | **T** | **W** | **I** | **A** | **Ld** |
+| ------------------ | ----- | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| **Black Orc Boss** | 4     | 4      | 4      | 4     | 5     | 2     | 3     | 1     | 8      |
+| **Black Orc**      | 4     | 4      | 3      | 4     | 4     | 1     | 3     | 1     | 7      |
+| **Black Orc**      | 4     | 4      | 3      | 4     | 4     | 1     | 3     | 1     | 7      |
+| **Orc Nuttaz**     | 4     | 3      | 2      | 3     | 4     | 1     | 2     | 1     | 5*     |
+| **Orc Boyz**       | 4     | 3      | 3      | 3     | 4     | 1     | 2     | 1     | 6      |
+| **Orc Shootaz**    | 4     | 3      | 3      | 3     | 4     | 1     | 2     | 1     | 6      |
 
 <hr/>
 
