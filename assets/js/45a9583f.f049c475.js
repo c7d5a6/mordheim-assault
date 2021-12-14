@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[6818],{6944:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/skaven","name":"skaven","count":1,"permalink":"/blog/tags/skaven"}')}}]);

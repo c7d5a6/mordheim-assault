@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[43],{10:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/orc","name":"orc","count":1,"permalink":"/blog/tags/orc"}')}}]);

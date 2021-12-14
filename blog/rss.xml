@@ -4,9 +4,16 @@
         <title>Mordheim Assault Blog</title>
         <link>https://mordheim-assault.owlbeardm.com/blog</link>
         <description>Mordheim Assault Blog</description>
-        <lastBuildDate>Thu, 09 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Skaven Band]]></title>
+            <link>https://mordheim-assault.owlbeardm.com/blog/starting-skaven</link>
+            <guid>starting-skaven</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Assassin Adept: Free Dagger, Warplock Pistol, Weeping Blades, Light Armor, Helm]]></description>
+        </item>
         <item>
             <title><![CDATA[Shadow Warriors Band]]></title>
             <link>https://mordheim-assault.owlbeardm.com/blog/starting-highelves</link>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[829],{7299:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/darkelves","name":"darkelves","count":1,"permalink":"/blog/tags/darkelves"}')}}]);

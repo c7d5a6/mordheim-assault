@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mordheim-assault.owlbeardm.com/blog</id>
     <title>Mordheim Assault Blog</title>
-    <updated>2021-12-09T00:00:00.000Z</updated>
+    <updated>2021-12-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mordheim-assault.owlbeardm.com/blog"/>
     <subtitle>Mordheim Assault Blog</subtitle>
     <icon>https://mordheim-assault.owlbeardm.com/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Skaven Band]]></title>
+        <id>starting-skaven</id>
+        <link href="https://mordheim-assault.owlbeardm.com/blog/starting-skaven"/>
+        <updated>2021-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- Assassin Adept: Free Dagger, Warplock Pistol, Weeping Blades, Light Armor, Helm]]></summary>
+        <author>
+            <name>Evgeny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shadow Warriors Band]]></title>
         <id>starting-highelves</id>

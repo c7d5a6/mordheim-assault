@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[6385],{2973:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/dwarf","name":"dwarf","count":1,"permalink":"/blog/tags/dwarf"}')}}]);

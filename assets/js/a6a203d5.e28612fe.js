@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[4745],{6984:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/band","name":"band","count":5,"permalink":"/blog/tags/band"}')}}]);
