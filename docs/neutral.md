@@ -13,7 +13,7 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 | 1d12 | Warband                                                                                                         |
 | ---- | --------------------------------------------------------------------------------------------------------------- |
-| 1    | **(Dwarf)** [Dwarf Rangers](#dwarf-rangers)                                                      |
+| 1    | **(Dwarf)** [Dwarf Rangers](#dwarf-rangers)                                                                     |
 | 2    | **(Dwarf)** [Guild of Disgraced Engineers](#guild-of-disgraced-engineers)                                       |
 | 3    | **(High Elf)** [High Elves](#high-elves)                                                                        |
 | 4    | **(High Elf)** [Lothern Sea Patrol](#lothern-sea-patrol)                                                        |
