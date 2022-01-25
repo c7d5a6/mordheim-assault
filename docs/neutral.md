@@ -11,21 +11,24 @@ import CharacterImg from '/src/components/character-img/character-img';
 
 ## Таблица
 
-| 2d6 | Warband                                                                                                         |
-| --- | --------------------------------------------------------------------------------------------------------------- |
-| 2   | **(Dwarf)** [Guild of Disgraced Engineers](#guild-of-disgraced-engineers)                                       |
-| 3   | **(High Elf)** [High Elves](#high-elves)                                                                        |
-| 4   | **(High Elf)** [Lothern Sea Patrol](#lothern-sea-patrol)                                                        |
-| 5   | **(Orcs & Goblins)** [Black Orcs](#black-orcs)                                                                  |
-| 6   | **(Human)** [Merchant Caravans](#merchant-caravans)                                                             |
-| 7   | **(Human)** [Sorcerous Society](#sorcerous-society)                                                             |
-| 8   | **(Human)** [Reiklanders](#reiklanders)                                                                         |
-| 9   | **(Skaven)** [Clan Skryre](#clan-skryre) (https://broheim.net/downloads/fo/97RelicsoftheCrusadesPt2.pdf#page=5) |
-| 10  | **(Skaven/Goblin)** [Underworld Alliance](#underworld-alliance)                                                 |
-| 11  | **(Undead)** [Blood Dragons](#blood-dragons)                                                                    |
-| 12  | **(Undead)** [Undead](#undead)                                                                                  |
+| 1d12 | Warband                                                                                                         |
+| ---- | --------------------------------------------------------------------------------------------------------------- |
+| 1    | **(Dwarf)** [Dwarf Rangers](#dwarf-rangers)                                                      |
+| 2    | **(Dwarf)** [Guild of Disgraced Engineers](#guild-of-disgraced-engineers)                                       |
+| 3    | **(High Elf)** [High Elves](#high-elves)                                                                        |
+| 4    | **(High Elf)** [Lothern Sea Patrol](#lothern-sea-patrol)                                                        |
+| 5    | **(Orcs & Goblins)** [Black Orcs](#black-orcs)                                                                  |
+| 6    | **(Human)** [Merchant Caravans](#merchant-caravans)                                                             |
+| 7    | **(Human)** [Sorcerous Society](#sorcerous-society)                                                             |
+| 8    | **(Human)** [Reiklanders](#reiklanders)                                                                         |
+| 9    | **(Skaven)** [Clan Skryre](#clan-skryre) (https://broheim.net/downloads/fo/97RelicsoftheCrusadesPt2.pdf#page=5) |
+| 10   | **(Skaven/Goblin)** [Underworld Alliance](#underworld-alliance)                                                 |
+| 11   | **(Undead)** [Blood Dragons](#blood-dragons)                                                                    |
+| 12   | **(Undead)** [Undead](#undead)                                                                                  |
 
 <CharacterImg src="/img/dwf1.jpg" align="right"></CharacterImg>
+
+## Dwarf Rangers
 
 ## Guild of Disgraced Engineers
 
