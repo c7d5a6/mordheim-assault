@@ -8,9 +8,9 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Day 2, Start]]></title>
+            <title><![CDATA[Day 2]]></title>
             <link>https://mordheim-assault.owlbeardm.com/blog/2022/01/16/</link>
-            <guid>Day 2, Start</guid>
+            <guid>Day 2</guid>
             <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Ходы]]></description>
         </item>
