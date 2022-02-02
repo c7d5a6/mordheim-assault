@@ -176,6 +176,8 @@ armour based inventions.
 
 ### 600 gc
 
+Rating: 89
+
 - Merchant (Merchant): Pistol [50+15]
 - Apprentice: Pistol [15+15]
 - Knights Vanguard (Lightning Reflex, Ride Warhorse, Hireling): Warhorse, Heavy armour, Helmet, Double-handed weapon [45+40+40+15+10]
@@ -225,6 +227,8 @@ armour based inventions.
 ## Sorcerous Society
 
 ### 515 gc
+
+Rating: 87
 
 - Magus (Leader, Wizard, Random Element): Wizard’s Staff, Raven [75+20+10]
 - Mage (Wizard, Respect your betters, Random Element): Wizard’s Staff [35+10]
