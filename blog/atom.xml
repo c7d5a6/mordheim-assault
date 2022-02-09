@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mordheim-assault.owlbeardm.com/blog</id>
     <title>Mordheim Assault Blog</title>
-    <updated>2022-01-16T00:00:00.000Z</updated>
+    <updated>2022-02-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mordheim-assault.owlbeardm.com/blog"/>
     <subtitle>Mordheim Assault Blog</subtitle>
     <icon>https://mordheim-assault.owlbeardm.com/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Day 3]]></title>
+        <id>Day 3</id>
+        <link href="https://mordheim-assault.owlbeardm.com/blog/2022/02/09/"/>
+        <updated>2022-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ходы]]></summary>
+        <author>
+            <name>Mikita</name>
+            <uri>https://github.com/c7d5a6</uri>
+        </author>
+        <author>
+            <name>Denis</name>
+        </author>
+        <author>
+            <name>Pavel</name>
+        </author>
+        <author>
+            <name>Evgeny</name>
+        </author>
+        <author>
+            <name>Andrey</name>
+        </author>
+        <author>
+            <name>Dimoc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 2]]></title>
         <id>Day 2</id>
