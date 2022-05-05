@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout title={`${siteConfig.title}`}>
       <HomepageHeader />
-      <img src="/img/mordheim map.jpg"></img>
+      <img src="/img/map.jpg"></img>
     </Layout>
   );
 }

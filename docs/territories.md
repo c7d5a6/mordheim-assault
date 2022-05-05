@@ -9,7 +9,7 @@ date: 19:17 2021-10-25
 
 import CharacterImg from '/src/components/character-img/character-img';
 
-<CharacterImg src="/img/mordheim map.jpg" align="center"></CharacterImg>
+<CharacterImg src="/img/map.jpg" align="center"></CharacterImg>
 
 Все свойства территорий срабатывают перед началом указанной фазы.
 
