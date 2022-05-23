@@ -4,9 +4,16 @@
         <title>Mordheim Assault Blog</title>
         <link>https://mordheim-assault.owlbeardm.com/blog</link>
         <description>Mordheim Assault Blog</description>
-        <lastBuildDate>Mon, 02 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Day 5]]></title>
+            <link>https://mordheim-assault.owlbeardm.com/blog/2022/05/22/</link>
+            <guid>Day 5</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ходы]]></description>
+        </item>
         <item>
             <title><![CDATA[Day 4]]></title>
             <link>https://mordheim-assault.owlbeardm.com/blog/2022/05/02/</link>
