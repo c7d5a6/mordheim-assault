@@ -150,32 +150,6 @@ edge, before any
 blows can be
 struck.
 
-## Blackpowder Weapons
-
-- Cost of blackpowder weapons reduced by 20%
-
-### Blackpowder Weapon Misfires
-
-Each time you roll a 1 when rolling to hit with a blackpowder weapon (handgun, pistol, blunderbuss, warplock pistol, etc), roll a D6 and consult the chart below.
-
-- **1 BOOM!** The weapon explodes with a
-deafening roar! The shooter suffers an S4 hit
-(this does not cause critical hits) and the
-weapon is destroyed.
-- **2 Jammed.** The weapon is jammed and useless
-for the remainder of the battle. You may use
-it as normal in the next battle.
-- **3 Phut.** The weapon fails to fire and you must
-remove the shot. This means that the shooter
-must wait one extra turn before he can fire
-this weapon again.
-- **4–5 Click.** The weapon fails to fire, but there is
-no additional effect.
-- **6 KA-BOOM!** The weapon roars and spits a
-cloud of black smoke and flame! The shot
-hits the intended target and counts as having
-+1 Strength.
-
 ## Home Rules
 
 - When choosing spells for the first time, "Wizards" may roll two dice and pick one of the two spells.
@@ -206,7 +180,7 @@ Experience points as shown on the table below. Also, warband with lower rating g
 
 <hr/>
 
-- **Dual Wielding**: a warrior using two weapons suffers a -1 to Hit on both attacks. Also, an attack from an off-hand weapon can be parried on a roll EQUAL TO or higher than the roll to hit with the off-hand weapon if the defender can parry. Attacks from additional weapons equipped due to skills (e.g. Tail Fighting) or mutations (e.g. Extra Arm) are exempt from this rule. Weapons that come as a pair (e.g. Fighting Claws) are also exempt from this rule.
+- **Dual Wielding**: a warrior using two weapons suffers a -1 to Hit on both attacks. Also, an attack from an off-hand weapon can be parried on a roll EQUAL TO or higher than the roll to hit if the defender can parry. Attacks from additional weapons equipped due to skills (e.g. Tail Fighting) or mutations (e.g. Extra Arm) are exempt from this rule. Weapons that come as a pair (e.g. Fighting Claws) are also exempt from this rule.
 - New common Skill **Ambidextrous**: the warrior is adept at two weapon fighting and may ignore the dual wielding penalty. All Hired swords that come with at least two weapons are presumed to have Ambidextrous as a standard.
 
 <hr/>
@@ -218,6 +192,8 @@ Experience points as shown on the table below. Also, warband with lower rating g
 - Shield +1 to armor save (adds -1 to M if used with any armor except Ithilmar Armour)
 
 <hr/>
+
+If model's Initiatives are equal, they strike simultaneously.
 
 <table><thead><tr><th>Ballistic Skill</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th></tr></thead><tbody><tr><td>To Hit score</td><td>6+</td><td>5+</td><td>4+</td><td>3+</td><td>2+</td><td>1+</td><td>0+</td><td>-1</td><td>-2</td><td>-3</td></tr><tr><td>To Hit on 7+</td><td colspan="10">6 followed by a 4, 5 or 6</td></tr><tr><td>To Hit on 8+</td><td colspan="10">6 followed by a 5 or 6</td></tr><tr><td>To Hit on 9+</td><td colspan="10">6 followed by a 6</td></tr><tr><td>To Hit on 10+</td><td colspan="10">Impossible!</td></tr></tbody></table>
 

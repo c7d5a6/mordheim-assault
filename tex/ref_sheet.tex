@@ -1,0 +1,55 @@
+\documentclass[a4paper, 9pt]{article}
+\special{papersize=210mm,297mm}
+\usepackage[russian]{babel}
+\usepackage{tikz}
+\usepackage{titling}
+\usepackage{lettrine}
+\usepackage{array}
+\usepackage[pagestyles]{titlesec}
+
+%\usepackage{verse}
+\usepackage{fontspec}
+%\setmainfont{GaramondBookC}
+%\usepackage{background}
+\usepackage{graphicx}
+\usepackage{ifoddpage}
+\usepackage{tcolorbox}
+\usepackage{multicol}
+
+
+
+\usepackage{geometry}
+\geometry{margin=0.2in}
+
+\pagenumbering{gobble}
+
+\definecolor{ugentblauw}{cmyk}{1 0.8 0.3 0.05}%
+\newfontfamily\headingfont[]{Schoensperger}
+\titleformat{\section}{\LARGE\headingfont\filcenter\color{white}}{\thesection}{-10em}{}
+\titleformat{\subsection}{\LARGE\headingfont\filcenter}{\thesection}{-10em}{}
+\titlespacing*{\section}{0pt}{-1em}{-1em}
+\titlespacing*{\subsection}{0pt}{0em}{0em}
+
+
+\newcommand{\bsection}[1]
+{
+\begin{tcolorbox}[boxrule=0pt,sharp corners,parbox=false,colback=black]\section*{#1}\end{tcolorbox}
+}
+
+\newenvironment{nscenter}
+{\parskip=0pt\par\nopagebreak\centering}
+{\par\noindent\ignorespacesafterend}
+
+\begin{document}
+\begin{multicols}{3}
+\include{./turn}
+\include{./weapons}
+\include{./skills}
+\end{multicols}
+\begin{multicols}{2}
+[\bsection{Price List}]
+\include{./price}
+\end{multicols}
+
+
+\end{document}
