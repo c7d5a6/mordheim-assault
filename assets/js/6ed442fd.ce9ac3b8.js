@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[47],{7558:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/fight","name":"fight","count":7,"permalink":"/blog/tags/fight"}')}}]);
